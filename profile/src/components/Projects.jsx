@@ -2,6 +2,7 @@ import React from 'react'
 import ProjectItem from './ProjectItem'
 import web1Img from '../assets/web1.avif'
 import web2Img from '../assets/web2.avif'
+import web3Img from '../assets/web3.png'
 
 function Projects() {
   return (
@@ -16,6 +17,8 @@ function Projects() {
         <div className='grid sm:grid-cols-2 gap-12'>
             <ProjectItem img={web1Img} title='Block Chain'/>
             <ProjectItem img={web2Img} title='Real Estate'/>
+            <ProjectItem img={web1Img} title='Money App'/>
+            <ProjectItem img={web3Img} title='Result App'/>
         </div>
     </div>
   )

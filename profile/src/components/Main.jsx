@@ -32,10 +32,11 @@ function Main() {
             />
           </h2>
           <div className='flex justify-between pt-6 max-w-[200px] w-full'>
-            <FaTwitter className='cursor-pointer' size={20} />
-            <FaFacebookF className='cursor-pointer' size={20}/>
-            <FaInstagram className='cursor-pointer' size={20}/>
-            <FaLinkedin className='cursor-pointer' size={20}/>
+            <a href='https://linkedin.com/in/oluwadamilare-olayanju-4677a3b8' target="_blank"><FaLinkedin className='cursor-pointer' size={20}/></a>
+            <a href='https://x.com/dareolayanju?t=uGGE4XrxkdffkrzDLLefxw&s=09' target="_blank"><FaTwitter className='cursor-pointer' size={20} /></a>
+            <a href='https://www.facebook.com/engrolayanju.oluwadamilare?mibextid=ZbWKwL' target="_blank"><FaFacebookF className='cursor-pointer' size={20}/></a>
+            <a href='' target="_blank"><FaInstagram className='cursor-pointer' size={20}/></a>
+            
           </div>
         </div>
         </div>

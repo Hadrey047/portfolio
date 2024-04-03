@@ -4,24 +4,24 @@ import WorkItem from './WorkItem'
 const data = [
   {
     year: 2020,
-    title: 'Content Creator',
+    title: 'Website Designing',
     duration:'3 Years',
     details: 
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum'
   },
   {
     year: 2023,
-    title: 'Website Designing',
+    title: 'UI/UX Designing',
     duration:'2 Years',
     details: 
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum'
   },
   {
     year: 2024,
-    title: 'Money Tranfer App',
+    title: 'Software Engineering',
     duration:'1 Years',
     details: 
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum'
+    'This is a banking app that solve the User Experience problems normally encounter by people with banking apps. This app have a seemless upboarding of customers, fast banking experience etc'
 
   }
 ]
